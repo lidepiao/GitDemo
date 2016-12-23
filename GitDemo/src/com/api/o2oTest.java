@@ -15,6 +15,7 @@ public class o2oTest {
 	public static void main(String[] args) {
 		System.out.println("o2o");
 		System.out.println("o2o2");
+		System.out.println("o2o3");
 
 	}
 
