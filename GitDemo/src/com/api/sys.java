@@ -6,6 +6,7 @@ public class sys {
 		int a =0;
 		System.out.println("a:"+a);
 		System.out.println("a:"+a);
+		System.out.println("º”“ª––:"+a);
 
 		
 		
