@@ -17,6 +17,10 @@ public class o2oTest {
 		System.out.println("o2o2");
 		System.out.println("o2o3");
 
+System.out.println("o2o3");
+
+System.out.println("o2o3");
+
 	}
 
 }
