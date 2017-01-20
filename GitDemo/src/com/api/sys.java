@@ -14,6 +14,7 @@ System.out.println("a:"+a);
 
 System.out.println("a:"+a);
 
+System.out.println("不想让你冲突，看你咋解决解决哈哈哈哈哈哈哈哈哈哈:"+a);
 		
 		
 
