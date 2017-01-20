@@ -7,6 +7,8 @@ public class sys {
 		System.out.println("a:"+a);
 		System.out.println("a:"+a);
 
+System.out.println("a:"+a);
+
 		
 		
 
